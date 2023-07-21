@@ -9,3 +9,5 @@ The other program is obtained by unzipping turtle.zip. This program is written i
 executable on Windows is available as turtle.exe. After starting this program, instructions on how to use it 
 are obtained by clicking on HELP. A number of interesting examples is already available, and the program 
 facilitates creating and saving new examples. It serves for running up to 400,000 steps.
+
+The program is fully open source: all sources of the program are available in the zip file.
